@@ -39,3 +39,9 @@ function multiply(a, b){
 | 2013-2018          | BSU, Faculty of Economics |
 | 2017               |    QA courses in A1QA     |
 | since September'21 |      English courses      |
+
+---
+
+## English level
+
+Currenly I'm working with personal teacher. I feel like my level is about A2+
