@@ -33,7 +33,9 @@ function multiply(a, b){
 
 ## Education
 
-- 2002-2013 school #132
-- 2013-2018 BSU, Faculty of Economics
-- 2017 QA courses in A1QA
-- since September'21 English courses
+| Years              |      Education info       |
+| ------------------ | :-----------------------: |
+| 2002-2013          |        school #132        |
+| 2013-2018          | BSU, Faculty of Economics |
+| 2017               |    QA courses in A1QA     |
+| since September'21 |      English courses      |
