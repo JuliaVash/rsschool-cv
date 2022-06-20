@@ -7,11 +7,10 @@
 
 ## About me
 
-![Profile pic](https://sun6.userapi.com/sun6-22/s/v1/ig2/0VWoqqiPdzAm3X5N9KHawj3d31Tq8rhFn5R78hc8t653fJTyUgbpCGmM1tZ0elFHiLagK5So4Qc8GgXw1XIA26sF.jpg?size=400x400&quality=96&crop=0,449,1439,1439&ava=1)
+![Profile pic](https://sun9-west.userapi.com/sun9-13/s/v1/if2/NBMaSLHOStuNJg9kn17UHAnMczIKRFgWoTLAut-o9LLdxrrAQYGA9w_JMcKrkZ_YXL1jAEIZTt2l1Yaiz2uks2v2.jpg?size=400x517&quality=96&crop=145,457,1155,1494&ava=1)
 
-About me
-
-About me 2
+I have good interpersonal skills, am an excellent team worker, and very willing to learn and develop new skills. I am friendly, helpful and polite, have a good sense of humor.
+I am able to motivate and direct my talents and skills to meet objectives.
 
 ## Code snippet
 
